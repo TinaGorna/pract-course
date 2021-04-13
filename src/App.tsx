@@ -1,9 +1,8 @@
 import React from "react";
 import "./App.module.css";
-import Accordion from "./components/Accordion/Accordion"
-import {UncontrolledAccordion} from "./UncontrolledAccordion/UncontrolledAccordion";
-import {Rating} from "./components/Rating/Rating";
 import {UncontrolledRating} from "./components/UncontrolledRating/UncontrolledRating";
+import UncontrolledAccordion from "./components/Accordion/UncontrolledAccordion";
+
 
 function App() {
     return (
