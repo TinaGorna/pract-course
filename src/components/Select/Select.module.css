@@ -1,0 +1,15 @@
+.select .main {
+    border: 1px solid black;
+    display: inline-block;
+    min-height: 20px;
+    max-height: 40px;
+}
+.items {
+    padding: 5px;
+    position: absolute;
+    border: 1px solid black;
+}
+.item.selected {
+    background-color: #61dafb;
+    color: aliceblue;
+}

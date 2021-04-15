@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React from "react";
 import "./App.module.css";
 import UncontrolledAccordion from "./components/Accordion/UncontrolledAccordion";
 
